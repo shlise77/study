@@ -46,6 +46,10 @@ dependencies {
     implementation group: 'commons-fileupload', name: 'commons-fileupload', version: '1.5'
     ///////////////////////////////////////////////////////////////////
 
+    // https://mvnrepository.com/artifact/org.glassfish.main/javax.annotation
+    implementation 'org.glassfish.main:javax.annotation:4.0-b33'
+    // 어노테이션 설정
+
     testImplementation("org.junit.jupiter:junit-jupiter-api:${junitVersion}")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:${junitVersion}")
 }
