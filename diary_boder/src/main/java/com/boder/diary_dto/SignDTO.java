@@ -1,6 +1,6 @@
 package com.boder.diary_dto;
 
-public class SignDto {
+public class SignDTO {
 
     private int pk_sign;
     private String sign_id;

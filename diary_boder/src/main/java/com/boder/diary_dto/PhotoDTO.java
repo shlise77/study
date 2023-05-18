@@ -1,6 +1,6 @@
 package com.boder.diary_dto;
 
-public class PhotoDto {
+public class PhotoDTO {
 
     private int photo_pk;
     private String photo_id;

@@ -44,6 +44,8 @@
         </div>
     </div>
 </header>
+<%-- content 부분 --%>
+<article>
 <nav class="container">
     <div class="row">
         <div class="col-sm">
@@ -79,6 +81,9 @@
     </div>
 </main>
 <aside></aside>
-<footer></footer>
+</article>
+<%-- content 끝나는 부분 --%>
+
+<%@include file="footer.jsp"%>
 </body>
 </html>

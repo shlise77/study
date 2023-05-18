@@ -1,6 +1,6 @@
 package com.boder.diary_dto;
 
-public class DiaryDto {
+public class DiaryDTO {
     private int diary_pk;
     private String diary_id;
     private String diary_num;
